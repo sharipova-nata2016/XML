@@ -1,1 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+	<body>
+  
+	<id> 1 </id>
+  
+	<Title> The main page of the site does not open </Title>
+  
+	<Steps> Go to http/... </Steps>
+  
+	<Expected result> Open http/... </Expected result>
+  
+	<Actual result> The main page of the site does not open </Actual result>
+  
+	<Severity> Blocker </Severity>
+
+	</body>
